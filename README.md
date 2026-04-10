@@ -27,7 +27,7 @@ Note: PyMaxflow is used specifically for the optimized Min-Cut/Max-Flow graph tr
 1. Place the Python script and your target images in the same directory (or update the `image_path` in the main execution block).
 2. Execute the script from the terminal:
    ```bash
-   python graph_cut_segmenter.py
+   python segmentation.py
    ```
    ### Interaction Instructions
     Depending on the annotation mode enabled in the code, follow these steps when the OpenCV window appears:
