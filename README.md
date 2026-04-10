@@ -1,4 +1,4 @@
-# Large Graph Cut Image Segmentation
+# Graph Cut Image Segmentation
 
 
 ## Project Overview
