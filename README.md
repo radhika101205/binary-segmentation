@@ -1,5 +1,4 @@
-**Graph Cut Image Segmentation**
-
+\title{\textbf{\huge Graph Cut Image Segmentation}}
 
 ## Project Overview
 This project implements a robust binary image segmentation pipeline using the Graph Cut (Min-Cut/Max-Flow) methodology. It separates foreground objects from their backgrounds by formulating segmentation as an energy minimization problem, utilizing Gaussian Mixture Models (GMMs) for data likelihoods and pairwise pixel gradients for spatial smoothing.
